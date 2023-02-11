@@ -8,11 +8,11 @@
 
 За terrain искористив топлотна мапа. Дрвата пробав со paint trees опцијата но не работеше затоа секој од објектите се рачно додавани во сцената. Играта е тестирана на Huawei pSmart21.
 
-![](RackMultipart20230211-1-6nea3u_html_f24505bc485fce47.jpg)
+![](https://github.com/Mile555/VR-CardboardGame/blob/master/Sliki/Game1.jpg)
 
-![](RackMultipart20230211-1-6nea3u_html_8a73d329604b0ae1.jpg)
+![](https://github.com/Mile555/VR-CardboardGame/blob/master/Sliki/Game2.jpg)
 
-![](RackMultipart20230211-1-6nea3u_html_70934b6fa7656220.jpg)
+![](https://github.com/Mile555/VR-CardboardGame/blob/master/Sliki/Game3.jpg)
 
 **Домашно 2.**
 
@@ -20,9 +20,9 @@
 
 Во овој дел имаме неколку нови сцени: Menu, Controls, Quit, MainGame.
 
-![](RackMultipart20230211-1-6nea3u_html_e57635b8706e82cb.jpg)
+![](https://github.com/Mile555/VR-CardboardGame/blob/master/Sliki/Menito.jpg)
 
-![](RackMultipart20230211-1-6nea3u_html_396d7bcc2b7b48d.jpg)
+![](https://github.com/Mile555/VR-CardboardGame/blob/master/Sliki/Controls.jpg)
 
 За ова ми помогнаа неколку туториали:
 [https://www.youtube.com/watch?v=R\_ipogbSv5s&ab\_channel=BluecloudcreationX](https://www.youtube.com/watch?v=R_ipogbSv5s&ab_channel=BluecloudcreationX)
@@ -31,7 +31,7 @@
 
 [https://www.youtube.com/watch?v=zdNBZsJdg9c&t=12s&ab\_channel=Xlaugts](https://www.youtube.com/watch?v=zdNBZsJdg9c&t=12s&ab_channel=Xlaugts)
 
-![](RackMultipart20230211-1-6nea3u_html_4f584962e68398c2.jpg)
+![](https://github.com/Mile555/VR-CardboardGame/blob/master/Sliki/Quit.jpg)
 
 **Домашно 3.**
 
@@ -39,7 +39,7 @@
 
 За да се победи треба да се соберат 5 парички. Со тоа ке се вклучи друга сцена на која пишува дека сме победиле.
 
-![](RackMultipart20230211-1-6nea3u_html_b095fc8656d300ef.jpg)
+![](https://github.com/Mile555/VR-CardboardGame/blob/master/Sliki/Congrats.jpg)
 
 За ова ми помогнаа следниве туторијали:
 
@@ -53,7 +53,7 @@
 
 Исто така додадов звук кој за секоја собрана паричка се активира.
 
-![](RackMultipart20230211-1-6nea3u_html_f24505bc485fce47.jpg)
+![](https://github.com/Mile555/VR-CardboardGame/blob/master/Sliki/Game1.jpg)
 
 За ова ми помогнаа следниве туторијали:
 
